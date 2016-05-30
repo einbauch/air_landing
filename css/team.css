@@ -30,6 +30,10 @@
     color: #ff2a68;
 }
 
+.member-details .text-small:hover {
+    cursor: pointer;
+}
+
 .member-details .text-medium {
     margin-bottom: 20px;
 }
